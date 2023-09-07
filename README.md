@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Toyeeb, please call me RST.
 - 🌱 I’m a senior web developer (full-stack).
 - 👀 I’m interested in web design and development, chatbot development, Solidworks, CNC machining.
-- 💞️ I am currently working as a freelancer.
+- 💼 I am currently working as a freelancer.
 - 📫 How to reach me: rstlabs3@gmail.com (replies within 24 hours)
 
 <!---
